@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F4BFF783-4268-2592-9195-789BA9B12580}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "StartUp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
